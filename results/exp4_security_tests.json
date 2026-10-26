@@ -1,0 +1,12 @@
+{
+  "experiment": 4,
+  "name": "negative_protocol_tests",
+  "invalid_signature_rejected": true,
+  "replay_rejected": true,
+  "revoked_device_rejected": true,
+  "altered_envelope_rejected": true,
+  "replay_reason": "replay_or_stale_sequence",
+  "revocation_reason": "revoked",
+  "invalid_reason": "invalid_signature",
+  "research_status": "DEMO_ONLY"
+}

@@ -1,0 +1,21 @@
+{
+  "mode": "DEMO_ONLY",
+  "common_workload": "device identity + sequence + nonce + payload digest + signature; group processing; session/channel plumbing",
+  "individual_experiments_completed": 6,
+  "signature_demo_pass": true,
+  "batch_all_accepted": true,
+  "session_demo_pass": true,
+  "negative_tests_pass": true,
+  "scalability_rows": 5,
+  "reproducibility_manifest_files": 16,
+  "collective_elapsed_seconds": 1.0971879839999872,
+  "not_established": [
+    "actual LiteQSign correctness/security",
+    "SIS aggregation",
+    "ML-KEM interoperability",
+    "AES-256-GCM",
+    "MCU energy",
+    "post-quantum security",
+    "journal-grade performance"
+  ]
+}

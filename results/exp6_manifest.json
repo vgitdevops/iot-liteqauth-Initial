@@ -1,0 +1,91 @@
+{
+  "experiment": 6,
+  "name": "reproducibility_manifest",
+  "python_version": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.41",
+  "files": 16,
+  "manifest": [
+    {
+      "path": "README.md",
+      "sha256": "b510853b75d1324cf3fb83465e8cce5779160e27c1d4b831a6cd35650f474210",
+      "bytes": 3137
+    },
+    {
+      "path": "configs/experiment.json",
+      "sha256": "69d7d9a636ded91050738103e673aa5519db2db1b34b63e543154b449799624d",
+      "bytes": 516
+    },
+    {
+      "path": "experiments/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "experiments/common.py",
+      "sha256": "eb2a227b4eabf3565874190b6e65bc0b5f4c1e990aa2ca89114136ad93225c53",
+      "bytes": 992
+    },
+    {
+      "path": "experiments/exp1_liteqsign.py",
+      "sha256": "f9d69e2eb076547eaca1ba812624aded2779c0dda2e1c7b8bcbf245d944c0f3b",
+      "bytes": 809
+    },
+    {
+      "path": "experiments/exp2_batch_processing.py",
+      "sha256": "b6305a258cd071e8e43fa31b96b8ec09585ab8cf5bdf5479d81458ffd0ae17ef",
+      "bytes": 743
+    },
+    {
+      "path": "experiments/exp3_key_establishment.py",
+      "sha256": "e653e25e0e7272b97339e8707fbd914c582889ac1e443804aeae0ad659ef94b6",
+      "bytes": 788
+    },
+    {
+      "path": "experiments/exp4_security_tests.py",
+      "sha256": "0ce107ca0c48a350b883368aad0452014ba1cc80b6601aee661653c5e7af3ed1",
+      "bytes": 1701
+    },
+    {
+      "path": "experiments/exp5_benchmark.py",
+      "sha256": "e32e4e2a60408ce57dffdfbd95a25fdf63aaf686706b86262807e5b90247efc5",
+      "bytes": 1690
+    },
+    {
+      "path": "experiments/exp6_reproducibility.py",
+      "sha256": "6d53548c4e06df97e4b972498fd0dfb67b73566f96998fb8b93e31811f79dad2",
+      "bytes": 1084
+    },
+    {
+      "path": "experiments/run_all.py",
+      "sha256": "8b8c39d3631579500a2549aaacf50a63682469197991b7280e3c16294df126fe",
+      "bytes": 2676
+    },
+    {
+      "path": "src/paper2/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "src/paper2/adapters.py",
+      "sha256": "751c3a9ff68c8980c043192481ec7d9809ed27f3810ac52e651621cabac56c15",
+      "bytes": 2336
+    },
+    {
+      "path": "src/paper2/metrics.py",
+      "sha256": "c0e9755cb00fd2fc7f035c6938e17f07068845012ff21ef387fab64b5aa75bff",
+      "bytes": 809
+    },
+    {
+      "path": "src/paper2/protocol.py",
+      "sha256": "88e4f2dfb602b2985fce5577bf8ad66f5216ee282fe4b172c2f455607cf78522",
+      "bytes": 3614
+    },
+    {
+      "path": "tests/test_demo.py",
+      "sha256": "4b99b2f74a4a7c86ee1b0ee67dff432d3433182db403d9506bb981bb1b41be6c",
+      "bytes": 1019
+    }
+  ],
+  "requirements": "Python 3.10+ standard library for demo",
+  "research_status": "metadata generated; external reference cryptography not integrated"
+}

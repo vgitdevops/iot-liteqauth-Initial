@@ -1,0 +1,7 @@
+experiment,result,status
+1,valid accepted and tampered message rejected,demo measured
+2,1000/1000 accepted in 1000-device demo batch,demo measured; individual verification
+3,session workflow and payload round-trip passed,demo only; not real KEM/AES-GCM
+4,"invalid signature, replay, revocation and tampering rejected",demo tests
+5,5 workload sizes benchmarked,host demo timings; not journal claims
+6,16 source files hashed in manifest,reproducibility metadata

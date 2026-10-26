@@ -1,0 +1,5013 @@
+{
+  "members": 1000,
+  "accepted": 1000,
+  "rejected": 0,
+  "elapsed_seconds": 0.0052366589999905955,
+  "members_per_second": 190961.4508032308,
+  "individual_results": [
+    {
+      "device_id": "dev-00000",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00001",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00002",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00003",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00004",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00005",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00006",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00007",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00008",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00009",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00010",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00011",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00012",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00013",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00014",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00015",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00016",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00017",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00018",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00019",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00020",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00021",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00022",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00023",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00024",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00025",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00026",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00027",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00028",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00029",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00030",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00031",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00032",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00033",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00034",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00035",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00036",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00037",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00038",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00039",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00040",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00041",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00042",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00043",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00044",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00045",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00046",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00047",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00048",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00049",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00050",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00051",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00052",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00053",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00054",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00055",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00056",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00057",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00058",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00059",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00060",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00061",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00062",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00063",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00064",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00065",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00066",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00067",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00068",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00069",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00070",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00071",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00072",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00073",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00074",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00075",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00076",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00077",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00078",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00079",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00080",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00081",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00082",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00083",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00084",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00085",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00086",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00087",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00088",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00089",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00090",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00091",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00092",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00093",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00094",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00095",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00096",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00097",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00098",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00099",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00100",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00101",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00102",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00103",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00104",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00105",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00106",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00107",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00108",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00109",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00110",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00111",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00112",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00113",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00114",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00115",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00116",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00117",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00118",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00119",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00120",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00121",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00122",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00123",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00124",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00125",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00126",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00127",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00128",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00129",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00130",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00131",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00132",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00133",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00134",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00135",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00136",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00137",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00138",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00139",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00140",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00141",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00142",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00143",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00144",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00145",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00146",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00147",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00148",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00149",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00150",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00151",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00152",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00153",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00154",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00155",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00156",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00157",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00158",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00159",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00160",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00161",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00162",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00163",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00164",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00165",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00166",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00167",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00168",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00169",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00170",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00171",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00172",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00173",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00174",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00175",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00176",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00177",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00178",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00179",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00180",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00181",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00182",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00183",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00184",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00185",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00186",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00187",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00188",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00189",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00190",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00191",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00192",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00193",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00194",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00195",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00196",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00197",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00198",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00199",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00200",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00201",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00202",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00203",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00204",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00205",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00206",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00207",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00208",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00209",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00210",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00211",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00212",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00213",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00214",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00215",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00216",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00217",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00218",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00219",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00220",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00221",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00222",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00223",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00224",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00225",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00226",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00227",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00228",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00229",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00230",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00231",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00232",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00233",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00234",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00235",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00236",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00237",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00238",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00239",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00240",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00241",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00242",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00243",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00244",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00245",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00246",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00247",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00248",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00249",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00250",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00251",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00252",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00253",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00254",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00255",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00256",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00257",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00258",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00259",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00260",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00261",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00262",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00263",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00264",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00265",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00266",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00267",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00268",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00269",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00270",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00271",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00272",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00273",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00274",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00275",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00276",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00277",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00278",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00279",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00280",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00281",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00282",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00283",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00284",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00285",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00286",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00287",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00288",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00289",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00290",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00291",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00292",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00293",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00294",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00295",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00296",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00297",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00298",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00299",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00300",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00301",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00302",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00303",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00304",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00305",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00306",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00307",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00308",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00309",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00310",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00311",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00312",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00313",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00314",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00315",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00316",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00317",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00318",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00319",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00320",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00321",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00322",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00323",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00324",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00325",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00326",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00327",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00328",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00329",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00330",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00331",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00332",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00333",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00334",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00335",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00336",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00337",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00338",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00339",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00340",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00341",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00342",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00343",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00344",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00345",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00346",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00347",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00348",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00349",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00350",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00351",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00352",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00353",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00354",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00355",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00356",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00357",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00358",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00359",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00360",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00361",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00362",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00363",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00364",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00365",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00366",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00367",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00368",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00369",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00370",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00371",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00372",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00373",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00374",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00375",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00376",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00377",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00378",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00379",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00380",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00381",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00382",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00383",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00384",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00385",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00386",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00387",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00388",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00389",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00390",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00391",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00392",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00393",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00394",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00395",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00396",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00397",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00398",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00399",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00400",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00401",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00402",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00403",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00404",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00405",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00406",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00407",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00408",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00409",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00410",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00411",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00412",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00413",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00414",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00415",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00416",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00417",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00418",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00419",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00420",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00421",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00422",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00423",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00424",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00425",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00426",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00427",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00428",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00429",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00430",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00431",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00432",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00433",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00434",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00435",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00436",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00437",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00438",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00439",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00440",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00441",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00442",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00443",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00444",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00445",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00446",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00447",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00448",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00449",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00450",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00451",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00452",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00453",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00454",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00455",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00456",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00457",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00458",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00459",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00460",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00461",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00462",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00463",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00464",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00465",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00466",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00467",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00468",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00469",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00470",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00471",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00472",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00473",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00474",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00475",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00476",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00477",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00478",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00479",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00480",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00481",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00482",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00483",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00484",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00485",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00486",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00487",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00488",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00489",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00490",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00491",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00492",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00493",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00494",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00495",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00496",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00497",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00498",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00499",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00500",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00501",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00502",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00503",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00504",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00505",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00506",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00507",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00508",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00509",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00510",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00511",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00512",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00513",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00514",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00515",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00516",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00517",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00518",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00519",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00520",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00521",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00522",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00523",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00524",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00525",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00526",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00527",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00528",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00529",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00530",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00531",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00532",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00533",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00534",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00535",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00536",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00537",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00538",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00539",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00540",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00541",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00542",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00543",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00544",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00545",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00546",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00547",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00548",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00549",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00550",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00551",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00552",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00553",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00554",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00555",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00556",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00557",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00558",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00559",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00560",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00561",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00562",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00563",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00564",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00565",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00566",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00567",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00568",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00569",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00570",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00571",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00572",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00573",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00574",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00575",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00576",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00577",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00578",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00579",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00580",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00581",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00582",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00583",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00584",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00585",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00586",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00587",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00588",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00589",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00590",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00591",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00592",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00593",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00594",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00595",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00596",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00597",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00598",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00599",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00600",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00601",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00602",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00603",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00604",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00605",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00606",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00607",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00608",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00609",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00610",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00611",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00612",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00613",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00614",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00615",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00616",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00617",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00618",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00619",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00620",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00621",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00622",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00623",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00624",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00625",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00626",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00627",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00628",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00629",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00630",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00631",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00632",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00633",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00634",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00635",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00636",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00637",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00638",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00639",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00640",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00641",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00642",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00643",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00644",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00645",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00646",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00647",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00648",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00649",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00650",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00651",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00652",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00653",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00654",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00655",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00656",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00657",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00658",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00659",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00660",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00661",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00662",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00663",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00664",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00665",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00666",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00667",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00668",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00669",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00670",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00671",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00672",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00673",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00674",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00675",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00676",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00677",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00678",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00679",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00680",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00681",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00682",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00683",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00684",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00685",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00686",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00687",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00688",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00689",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00690",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00691",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00692",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00693",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00694",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00695",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00696",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00697",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00698",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00699",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00700",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00701",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00702",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00703",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00704",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00705",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00706",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00707",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00708",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00709",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00710",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00711",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00712",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00713",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00714",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00715",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00716",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00717",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00718",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00719",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00720",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00721",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00722",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00723",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00724",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00725",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00726",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00727",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00728",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00729",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00730",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00731",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00732",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00733",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00734",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00735",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00736",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00737",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00738",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00739",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00740",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00741",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00742",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00743",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00744",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00745",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00746",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00747",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00748",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00749",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00750",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00751",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00752",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00753",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00754",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00755",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00756",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00757",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00758",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00759",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00760",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00761",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00762",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00763",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00764",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00765",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00766",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00767",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00768",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00769",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00770",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00771",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00772",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00773",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00774",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00775",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00776",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00777",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00778",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00779",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00780",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00781",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00782",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00783",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00784",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00785",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00786",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00787",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00788",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00789",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00790",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00791",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00792",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00793",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00794",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00795",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00796",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00797",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00798",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00799",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00800",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00801",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00802",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00803",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00804",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00805",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00806",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00807",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00808",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00809",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00810",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00811",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00812",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00813",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00814",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00815",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00816",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00817",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00818",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00819",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00820",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00821",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00822",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00823",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00824",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00825",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00826",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00827",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00828",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00829",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00830",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00831",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00832",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00833",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00834",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00835",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00836",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00837",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00838",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00839",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00840",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00841",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00842",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00843",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00844",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00845",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00846",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00847",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00848",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00849",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00850",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00851",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00852",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00853",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00854",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00855",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00856",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00857",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00858",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00859",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00860",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00861",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00862",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00863",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00864",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00865",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00866",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00867",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00868",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00869",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00870",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00871",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00872",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00873",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00874",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00875",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00876",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00877",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00878",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00879",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00880",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00881",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00882",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00883",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00884",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00885",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00886",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00887",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00888",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00889",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00890",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00891",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00892",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00893",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00894",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00895",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00896",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00897",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00898",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00899",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00900",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00901",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00902",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00903",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00904",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00905",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00906",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00907",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00908",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00909",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00910",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00911",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00912",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00913",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00914",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00915",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00916",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00917",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00918",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00919",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00920",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00921",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00922",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00923",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00924",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00925",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00926",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00927",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00928",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00929",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00930",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00931",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00932",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00933",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00934",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00935",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00936",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00937",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00938",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00939",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00940",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00941",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00942",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00943",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00944",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00945",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00946",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00947",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00948",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00949",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00950",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00951",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00952",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00953",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00954",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00955",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00956",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00957",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00958",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00959",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00960",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00961",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00962",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00963",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00964",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00965",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00966",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00967",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00968",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00969",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00970",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00971",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00972",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00973",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00974",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00975",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00976",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00977",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00978",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00979",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00980",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00981",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00982",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00983",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00984",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00985",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00986",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00987",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00988",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00989",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00990",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00991",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00992",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00993",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00994",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00995",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00996",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00997",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00998",
+      "accepted": true,
+      "reason": "accepted"
+    },
+    {
+      "device_id": "dev-00999",
+      "accepted": true,
+      "reason": "accepted"
+    }
+  ],
+  "experiment": 2,
+  "name": "per_device_batch_processing",
+  "cryptographic_aggregation": false,
+  "research_status": "DEMO_ONLY"
+}

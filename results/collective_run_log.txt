@@ -1,0 +1,99 @@
+{'experiment': 1, 'name': 'signature_interface_demo', 'adapter': 'DEMO_ONLY_HMAC_NOT_LITEQSIGN', 'valid_signature_accepted': True, 'tampered_message_rejected': True, 'signature_bytes': 32, 'research_status': 'DEMO_ONLY_NOT_LITEQSIGN_NOT_POST_QUANTUM'}
+{'members': 1000, 'accepted': 1000, 'rejected': 0, 'elapsed_seconds': 0.0052366589999905955, 'members_per_second': 190961.4508032308, 'experiment': 2, 'name': 'per_device_batch_processing', 'cryptographic_aggregation': False, 'research_status': 'DEMO_ONLY'}
+{'experiment': 3, 'name': 'session_and_channel_demo', 'key_agreement_workflow_completed': True, 'payload_round_trip': True, 'ciphertext_bytes_demo_envelope': 58, 'research_status': 'DEMO_ONLY_NOT_MLKEM_NOT_AES_GCM'}
+{'experiment': 4, 'name': 'negative_protocol_tests', 'invalid_signature_rejected': True, 'replay_rejected': True, 'revoked_device_rejected': True, 'altered_envelope_rejected': True, 'replay_reason': 'replay_or_stale_sequence', 'revocation_reason': 'revoked', 'invalid_reason': 'invalid_signature', 'research_status': 'DEMO_ONLY'}
+{
+  "experiment": 5,
+  "name": "scalability_demo",
+  "rows": [
+    {
+      "devices": 100,
+      "trials": 10,
+      "latency_mean_s": 0.0006104712000052359,
+      "latency_median_s": 0.0005478089999968461,
+      "latency_stdev_s": 0.00020195524707404097,
+      "throughput_mean_devices_s": 176279.73649964193,
+      "accepted_mean": 100,
+      "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+      "status": "measured_demo_not_journal_claim"
+    },
+    {
+      "devices": 250,
+      "trials": 10,
+      "latency_mean_s": 0.001461505299999999,
+      "latency_median_s": 0.0013666104999856543,
+      "latency_stdev_s": 0.00028132221187747127,
+      "throughput_mean_devices_s": 175859.92440912043,
+      "accepted_mean": 250,
+      "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+      "status": "measured_demo_not_journal_claim"
+    },
+    {
+      "devices": 500,
+      "trials": 10,
+      "latency_mean_s": 0.0028725280000003297,
+      "latency_median_s": 0.002803284999998823,
+      "latency_stdev_s": 0.00037619153033784493,
+      "throughput_mean_devices_s": 176672.62932635317,
+      "accepted_mean": 500,
+      "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+      "status": "measured_demo_not_journal_claim"
+    },
+    {
+      "devices": 750,
+      "trials": 10,
+      "latency_mean_s": 0.004214426699994079,
+      "latency_median_s": 0.00405782400000021,
+      "latency_stdev_s": 0.0005067120982047031,
+      "throughput_mean_devices_s": 179986.58672954407,
+      "accepted_mean": 750,
+      "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+      "status": "measured_demo_not_journal_claim"
+    },
+    {
+      "devices": 1000,
+      "trials": 10,
+      "latency_mean_s": 0.007038170600003469,
+      "latency_median_s": 0.005901233000003003,
+      "latency_stdev_s": 0.0027431890956082163,
+      "throughput_mean_devices_s": 155949.41698579348,
+      "accepted_mean": 1000,
+      "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+      "status": "measured_demo_not_journal_claim"
+    }
+  ],
+  "note": "Host-machine timings only; not MCU energy, not real LiteQSign, not cryptographic aggregation."
+}
+{'experiment': 6, 'files': 16, 'platform': 'Linux-6.18.55-x86_64-with-glibc2.41'}
+\nCOLLECTIVE SUMMARY\n{
+  "mode": "DEMO_ONLY",
+  "common_workload": "device identity + sequence + nonce + payload digest + signature; group processing; session/channel plumbing",
+  "individual_experiments_completed": 6,
+  "signature_demo_pass": true,
+  "batch_all_accepted": true,
+  "session_demo_pass": true,
+  "negative_tests_pass": true,
+  "scalability_rows": 5,
+  "reproducibility_manifest_files": 16,
+  "collective_elapsed_seconds": 1.0971879839999872,
+  "not_established": [
+    "actual LiteQSign correctness/security",
+    "SIS aggregation",
+    "ML-KEM interoperability",
+    "AES-256-GCM",
+    "MCU energy",
+    "post-quantum security",
+    "journal-grade performance"
+  ]
+}
+
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 718, in _warm_feature_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 509, in _warm_drawing_and_image_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/generated/interface/models.py", line 32861, in bring_to_front
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/remote.py", line 764, in __call__
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/client.py", line 175, in call
+artifact_tool.rpc.client.RemoteError: Element ordering requires an owning element collection.

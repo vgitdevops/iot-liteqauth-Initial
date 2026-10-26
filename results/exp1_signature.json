@@ -1,0 +1,9 @@
+{
+  "experiment": 1,
+  "name": "signature_interface_demo",
+  "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+  "valid_signature_accepted": true,
+  "tampered_message_rejected": true,
+  "signature_bytes": 32,
+  "research_status": "DEMO_ONLY_NOT_LITEQSIGN_NOT_POST_QUANTUM"
+}

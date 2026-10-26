@@ -1,0 +1,8 @@
+{
+  "experiment": 3,
+  "name": "session_and_channel_demo",
+  "key_agreement_workflow_completed": true,
+  "payload_round_trip": true,
+  "ciphertext_bytes_demo_envelope": 58,
+  "research_status": "DEMO_ONLY_NOT_MLKEM_NOT_AES_GCM"
+}

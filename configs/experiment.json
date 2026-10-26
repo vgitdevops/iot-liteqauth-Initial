@@ -1,0 +1,18 @@
+{
+  "demo_mode": true,
+  "batch_sizes": [
+    100,
+    250,
+    500,
+    750,
+    1000
+  ],
+  "scalability_trials": 10,
+  "note": "These values are demo workload settings, not achieved research claims.",
+  "research_replacements": {
+    "signature": "actual 2025 LiteQSign reference implementation",
+    "key_encapsulation": "validated NIST FIPS 203 ML-KEM implementation",
+    "aead": "validated AES-256-GCM implementation",
+    "aggregation": "specified/proven aggregate signature or individual verification"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "experiment": 5,
+  "name": "scalability_demo",
+  "rows": [
+    {
+      "devices": 100,
+      "trials": 10,
+      "latency_mean_s": 0.0006104712000052359,
+      "latency_median_s": 0.0005478089999968461,
+      "latency_stdev_s": 0.00020195524707404097,
+      "throughput_mean_devices_s": 176279.73649964193,
+      "accepted_mean": 100,
+      "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+      "status": "measured_demo_not_journal_claim"
+    },
+    {
+      "devices": 250,
+      "trials": 10,
+      "latency_mean_s": 0.001461505299999999,
+      "latency_median_s": 0.0013666104999856543,
+      "latency_stdev_s": 0.00028132221187747127,
+      "throughput_mean_devices_s": 175859.92440912043,
+      "accepted_mean": 250,
+      "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+      "status": "measured_demo_not_journal_claim"
+    },
+    {
+      "devices": 500,
+      "trials": 10,
+      "latency_mean_s": 0.0028725280000003297,
+      "latency_median_s": 0.002803284999998823,
+      "latency_stdev_s": 0.00037619153033784493,
+      "throughput_mean_devices_s": 176672.62932635317,
+      "accepted_mean": 500,
+      "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+      "status": "measured_demo_not_journal_claim"
+    },
+    {
+      "devices": 750,
+      "trials": 10,
+      "latency_mean_s": 0.004214426699994079,
+      "latency_median_s": 0.00405782400000021,
+      "latency_stdev_s": 0.0005067120982047031,
+      "throughput_mean_devices_s": 179986.58672954407,
+      "accepted_mean": 750,
+      "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+      "status": "measured_demo_not_journal_claim"
+    },
+    {
+      "devices": 1000,
+      "trials": 10,
+      "latency_mean_s": 0.007038170600003469,
+      "latency_median_s": 0.005901233000003003,
+      "latency_stdev_s": 0.0027431890956082163,
+      "throughput_mean_devices_s": 155949.41698579348,
+      "accepted_mean": 1000,
+      "adapter": "DEMO_ONLY_HMAC_NOT_LITEQSIGN",
+      "status": "measured_demo_not_journal_claim"
+    }
+  ],
+  "note": "Host-machine timings only; not MCU energy, not real LiteQSign, not cryptographic aggregation."
+}
